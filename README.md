@@ -43,3 +43,6 @@ csv file with 20+ data points per stock, organized by industry with summary stat
 ---
 
 **Note:** This tool uses the Finviz API and requires internet connection. Do not change the rate limits or the connection will be shut off.
+
+## Example 
+![Screenshot_227](https://github.com/user-attachments/assets/3d86d20e-89cf-428c-98d6-b2223b54e000)
