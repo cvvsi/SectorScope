@@ -10,11 +10,7 @@ Still being developed and is not a finished product. The main working script is 
 ## Quick Start
 
 ### Setup
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-pip install -r requirements.txt
-```
+
 
 ### Run the Scanner
 ```bash
